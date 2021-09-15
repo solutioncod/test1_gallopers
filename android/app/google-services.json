@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770369968137",
+    "project_id": "learnfast-10b17",
+    "storage_bucket": "learnfast-10b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770369968137:android:a1d0ba3d921e28914400d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770369968137-4j3f8jf83nlgqtudpjafcoq7mdetug1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6QhTd4Bzve2zLW6n6Yiow-mzgKYlzaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770369968137-4j3f8jf83nlgqtudpjafcoq7mdetug1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
